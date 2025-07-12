@@ -4,7 +4,6 @@ O objetivo é criar um bash script que configure permissões de usuário para um
 
 
 ## Definições
-- Excluir diretórios, arquivos, grupos e usuários criados anteriormente;
 - Todo provisionamento deve ser feito em um arquivo do tipo Bash Script;
 - O dono de todos os diretórios criados será o usuário root;
 - Todos usuários de cada grupo terão permissão total dentro do seu respectivo diretório;
